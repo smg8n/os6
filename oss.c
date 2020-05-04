@@ -27,8 +27,8 @@ int main(int argc, char* argv[]) {
 		 
 		switch (options) {
 		case 'h':
-			printf("HOW TO RUN\n");
-			printf("I'll tell you when i figure it out.\n");
+			
+			
 			printf("OPTIONS:\n");
 			printf("-h Describe how the project should be run, options, and then terminate.\n");
 			printf("-m x Specify memory access type, 0 for simple, 1 for weighted : (0 by default)\n");
